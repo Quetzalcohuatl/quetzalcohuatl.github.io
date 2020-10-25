@@ -18,12 +18,12 @@ plugins:
 #remote_theme: h01000110/windows-95
 
 #permalink: /:year:month:day/:title
-url: "https://dotorimook.github.io"
+url: "https://quetzalcohuatl.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 
 # variables
-name: dotorimook
-description: dotorimook's blog
+name: quetzalcohuatl
+description: quetzalcohuatl's blog
 google_verification: null
 
 
