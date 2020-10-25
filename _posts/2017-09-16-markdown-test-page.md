@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Markdown Test Page"
+title: "Example Post"
+date: 2020-10-22 13:05:21
 tags: tag1 tag3
 published: true
 ---
