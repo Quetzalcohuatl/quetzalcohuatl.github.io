@@ -2,7 +2,7 @@
 layout: default
 title: "Example Post"
 date: 2020-10-25 17:18:00
-tags: tag1 tag3
+tags: example
 published: true
 ---
 
