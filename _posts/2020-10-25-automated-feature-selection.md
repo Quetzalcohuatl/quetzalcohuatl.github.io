@@ -20,7 +20,7 @@ If you want a quick answer, you could run SHAP on your features and remove the l
 Ahmet has created a model agnostic validation scheme called LOFO Importance: https://github.com/aerdem4/lofo-importance
 One of the benefits of LOFO Importance is that you can group features together. This is useful if you have OHE or TF-IDF features.
 
-Another way is to use forward feature selection with Ridge Regression (trying ti improve AIC or BIC)
+Another way is to use forward feature selection with Ridge Regression (trying to improve AIC or BIC)
 
 There is a paper about Null Importances which I find is also reliable. You can read it here: https://academic.oup.com/bioinformatics/article/26/10/1340/193348
 Basically, for each feature, you refit the model but with the column shuffled, and compare the feature importance before and after. If the feature remains as/more important as last time, then you can perceive the column as unimportant.
