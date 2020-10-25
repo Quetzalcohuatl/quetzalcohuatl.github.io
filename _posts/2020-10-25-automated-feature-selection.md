@@ -2,7 +2,7 @@
 layout: default
 title: "Automated Feature Selection"
 date: 2020-10-25 17:41:00
-tags: machine_learning
+tags: machinelearning
 published: true
 ---
 Feature selection is an important topic in machine learning. The more features you have, the more likely you are to overfit and fail to generalize to your cross-validation set. Additionally, with fewer features, your model can be more performant (faster).
