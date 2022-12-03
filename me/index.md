@@ -2,11 +2,10 @@
 layout: me
 title: About me
 ---
-I am a data scientist working in New York City. I mainly program in Python with Jupyter Notebook, but sometimes use R.
-
-In my free time I like to use Kaggle. I also play videogames like Team Fortress 2, but I really love puzzle games. Some of my favorite puzzle games are Stephen's Sausage Roll, Baba Is You, TIS-100, and Spacechem. I also listen to lots of new music, always trying to find something new and great.
+Data scientist living in New York City with extensive experience in NLP, time series, and tabular data. I am a Kaggle grandmaster in machine learning/artificial intelligence (AI). I have strong skills in connecting & presenting to business stakeholders. I have worked in ESG, Finance, and Energy. Adept at identifying problems, implementing solutions, and resolving complex issues. Strong communication, interpersonal, and analytical skills.
 
 ### Contact Info
+- Linkedin - [Corey James Levinson](https://www.linkedin.com/in/corey-james-levinson/)
 - Github - [Quetzalcohuatl](https://www.github.com/Quetzalcohuatl)
 - Kaggle - [CoreyLevinson/returnofsputnik](https://www.kaggle.com/returnofsputnik)
 - Stackoverflow - [CoreyLevinson](https://stackoverflow.com/users/6004997/corey-levinson)
